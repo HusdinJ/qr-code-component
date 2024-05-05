@@ -16,7 +16,7 @@ body {
 .qr-card {
     text-align: center;
     border-radius: 20px;
-    margin: 230px auto;
+    margin: 180px auto;
     width: 320px;
     height: 500px;
     background-color: var(--White);
